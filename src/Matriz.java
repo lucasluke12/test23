@@ -33,6 +33,7 @@ public class Matriz {
         }
         System.out.println("");
         System.out.println("Negativos1 "+negativo);
+	System.out.println("fodase");
         
         t.close();
 }
